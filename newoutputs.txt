@@ -1,0 +1,922 @@
+done
+# categories: 1 ['st']
+# data: 36339
+# train: 29071
+# test: 7268
+Epoch 1 Started
+
+9m 5s (3000 10%)
+Samples:
+Jo  :m   o A t.  s dn  po aoleren l uhpncretr      
+SAtU n rl o  s  oa
+Li3u: :  tnu  er
+Uh:h  I:  eoe t ro eraornio  satieai g sto ac  ot e
+PYop e   e eia  naa nn m o act  nmi o  ao   e nsrns
+QKxc   ee    a    ie.o .s eue di  i a  err roo    e
+ZC):   le  t  ooia gniailt e n eii oi  t seea  o uu
+HB sU r    o  uusk o ae    r  vgeteoner  i seoov r 
+Th:Seed        er   teo a  ot yl e tanntolocoe oahr
+Muo:L ::  h .  cwlntoi  sta i t   serni el umuer g 
+IyiYC    r  
+POtM  osrr  si eao  o r et ae tnres t.i leee te rin
+Til Hes l  e  tieriie i h rn  teha do u  ii c uiy t
+RwL  exep n a ueistuobcei  akoetrto no o arotloit  
+CF: et:     i tno  tou   n     t ecoasetetinenl  nn
+
+18m 1s (6000 20%)
+Samples:
+TN :A:hO s  oo sl   ae dsoeo ei  o  bt co  o  oro e
+LI hsI    ea oiee u a a eh  eeeroot o  d geerdeooo 
+ZCR:O    .  ao er  al e ymoor deoo e te o aa, oi o 
+U K  : og e t p e ooeee aoo s eho oes eCoaeo  r ei 
+X::RK Chod  n  ery oe o oeh  o oe odotehb  toniencd
+GCeI:oK ol ordtr a e  weeost  ed eroarrott loeoose 
+ORCO: e   hs a e t  enoeee   oee oieoeeoa  u lttaoo
+STK:   : m   r  oie tod loehiet uetee ea r     ltte
+BR:L :  .hayot eefei e n   o  o haao ddr  ue et reI
+U. AKO    e    fsooeor  eet   e eaa   e  'o.er iea 
+YnC:::: :  a  ostn    hte ien it  daa oeo no     o 
+FRKK:   Aasee  i oe  eof ege
+PuRo:
+V SS  :N   o l   a sios itaht a i   seee et o n n  
+HNKRKR:    oeerso   neadhe eoieth  ebt   phr hai   
+
+26m 42s (9000 30%)
+Samples:
+IOKKK: o oos?u tehoi   r t n odutec    o  ttaaet,en
+WLE:R    apoeue le e s oogo ieoeea   llln  cel  uon
+DKKK::   w   tl  oe at inneto  teee.  enaaerie ot
+LRCRR: ee  n i  n e o tt rl wtt .,aoe o eao     ln 
+DRKR::  ' aa  e e  t et  etoea  i  osr a eg eue t  
+J:KC R iat  hi   eetl   noe h t euttrr v o eodea io
+AVCOE Oo    os t oe e  ee u etnoh a ooer ett oto ah
+YRRR:  n aeuuy del elrrs t   ian   eeey sinnd tec e
+MI   :e,tel k  yflaa eo oe eor oyt n l h t t etetme
+UhO:     io  e tiel   imrn ta ni ae eihtee e usrtl 
+C OR: C ho tan th naese in  etn  tdto uete   iltet 
+IROc:   e ih getstl  oos t te   ey  ue  sao 
+VIS::    au a  et o aeeo erteenh  s  o a ei tt  ee 
+ZR: :C:  she etr  oe tilsntmr  oeto cet o te  eoh o
+HRO:K Ae lipea  tstan  syti lule t, aey heeo ve o d
+
+35m 40s (12000 41%)
+Samples:
+CPIR:: :ot enr i test gra aoheeet tfe trone ieo eeo
+DI:K :I eae oe aeuo oh tite a aaanoa.e ity net aoo 
+XR:E: oee trer sto oihl oteeibie oh uoraen eee. eio
+CLR:OYL ai he wa eaihos aoieet oie htse eerl ser an
+ZKC AK C't utyeer wutn oater ee oe .esti gt auho oe
+DII C:: etrrew dlttiet suiem a hhnhsnee tram lt oeo
+YMRRA: hhae nn aaeae yae ets iai rtteha a' atsap nu
+NIKRK  ole eta oairloe vets otiv rhitpt een tv enye
+TLHI: Yen sa et eocite induae isaae ler uset oorr r
+SCAYC :oe eaert lo aeairaeede hte esusrdae e ne ehe
+DIYOL:  eehe roe aoee or enaaesa.te ooee eotpgelrr 
+W)VKK  eIe eo ot iono oe eeetr nioeae ndee aee uote
+IORK : sptr eaia
+ORCK: : e iiait tnn rbhree ii. 
+GCCRI: :Iat oean tiee ltse ea n.phso iort uee rrri 
+
+44m 25s (15000 51%)
+Samples:
+JIOA: oh oen oha fn efnt moe we ton to ou dol. thi 
+XLK: Rho waa scog ueen fug oo to thue aoe to ore hh
+QROR Eo yhe he tue aos oe ohe ao roe io aime wa phe
+YCEKO I hoe tae asa anmt ooe ao do aoia tae to ortr
+CLORYCA noe eo otr lhle ae amo to ye ao aim oe swo 
+AKOC: :h tne eee bee toht hrrros te hoe aoe te aeiy
+QCRYK: Te tie enen he toe mhuta aeo trrer iiaa no u
+DNTKO Nae ie io trlae onat oo ao ao gt tele tte aei
+FRKKO: Roa io ehe oo te ao nsie tee hne aoo ahet he
+JIKO: Lutts wbe toa. to wosn toe to oi speti aoet t
+EEOE: :he eae toe tah oe toit cno ttis ne tne sd ii
+R'RK KN ITe ton aet to ps hhto hh hps ba aie hoe ho
+PC:KO :a hoe de toa yo oren oonre ootn ae ioe hae e
+PORK:: y oeare ho ie loe ao has ime ails ho mat aho
+PORP: :i hes. aee oo aoo ahie tair oans ae te ho ee
+
+53m 14s (18000 61%)
+Samples:
+DCCK: Was ho te ph hor nos to th tor aee te aul ino
+NIOI Cee oe ao ae we se toan os saan sn rcooe saaaa
+SOLP: She su iir wha to be wat tipnn cnte ah gm wh 
+FAhC: Oo ma pe oor t aou ree so wh to s to oo ne oh
+KRKK: Oo att ge the or wil s ht bot thr ahk th we d
+AKOK Tes te t ronun te aone te pou th oe ne wrett a
+AROR: I to sil ao wu cop ohe tir oo hn taun rbe od 
+HRAA: E lo aot tnen ion ooe ant toe th wie io af oo
+ZIOK[:: we ie ses tiis we th hat hh she cme tih deg
+MjCRO: I to tit ve te gn w noo gl ge wif ae aat foe
+GCRI Y teun to w to ah th to ht wh to ooe we bied t
+KIK : :ae oe wrne tere th rn taiaiard tu sod soar m
+NKIK: To wne do de oet so del aot to ao th soe t ah
+UIRIR Yo ah uh th a so toe chee bee ynoiad th oe ti
+FKOR: Ne aar php. wo cae nat ao the io oamt sh ko t
+
+62m 5s (21000 72%)
+Samples:
+UIRT: Eon touan te the an anntat anu lid to ansite 
+PORCR: Yes the anle. pinit to te te to me cete yite
+KhAK: That he to te sat s afe ire ante an an to mol
+YIKT: Ie cem unte then de, te fot afllin fhae t ene
+RROKK: The tad tas lovheg. somrert, sorerer. wo sos
+LAAKK: I on til nos roper aon as te ho tem oneres h
+XIKK: rare lat teuninv ce. mise te cam cite en enle
+NTYR: Yiise te Cod ar sted meue ho pede ir to pate 
+WCGCCY: Tile wos ant ol te los to mene mhos sin see
+NICR: Noit to he teuet te sems fute imegend sean te
+RORU: Yale was celtat te wosed sete an the te sod i
+LI:K Yot te te wey anus thrrenon tithe th ankenot h
+OKRKT: Net saur wo danmg sety the tee ton feml Cant
+VKCE: Theute tat te beatt yoing anute anr eete te a
+YIRA: Iim ante pot fuas polis. fome sat we d the an
+
+71m 4s (24000 82%)
+Samples:
+DIRK: Yint an ild oce misoni on tor on wo fhe cin't
+PCOO: : Cheure thas we ot firt ou d tiat in in to y
+LORA:: Nothacs bime he ant tou to to moen fit an sh
+JIRRK: Ste lo tas tou wo coala fos any oo to tinm o
+XOR: Yes one ant at on arano the tor it hin. I te h
+MIRK: Yor tare the the Tho bhe. I lt alt an at erer
+OeOA: Yle the lot an the in eldy an yad on lo te ti
+FOLC: Chet ant ante the tfele on tho te tame the th
+ZIKK: Heude. Sorann ine th merenit Co to she o to b
+GIRR: Tu anl lo the thim the tar fhe lo hhe tim afe
+RACE: Yere on whe ane the to lols yhan an toe and i
+GIRKK: Ao tanre the sole. Te tin ases Srdy mill on 
+WChK Cere the anpinte fin ind an on tot ye wo tho t
+UIRKK: Timl, on inunite more nare to tho to af ant 
+EICI: I [ear ans yhe to roud te mimot ye the inpend
+
+79m 51s (27000 92%)
+Samples:
+LIIK: Tot te tif the te lit on anderse thane serer 
+KRRR: Dhe waun in thare tho hic. do, wor in court t
+WEK: Tot wo doud thant on hit sou thil the the gho 
+WPRK: Sran poud the bene ther rore tou the tof ans 
+JIKK: I the wene sore fenser on tho w teor in is to
+CIRKK: Met on to rove lout an to prey de to sout al
+VOCA: I the ve the fot ane to tour in thar mem ware
+SIRK: I the tho tin sate in gord tork to m ilrire i
+MIRKN: Ye wom tou the con the cast th acane som lan
+UOOK: Tou dant wo maretenr bot are tos ale agvon bo
+PIRRK: I epeteres the thine on ronerltil on at se t
+IRIRK Celet, ins sorad acureres tho tor oume the an
+TIRK: This wourd to porace the is antaresen. I the 
+IRKK: Yen thar. I ine, I cisereteme,.
+NCOM: SOs an nane the on m als ho the tor fink en m
+
+86m 33s Epoch Train Loss: 218.5872
+96m 0s Epoch Test Loss: 174.8080, Accuracy: 17.5872 
+Epoch Samples:
+BIRR: I pame it ot mon the situ in le cis the seme 
+AIRK: Ene sire wouu sise soud an she the sicg on th
+IRRR: Whe wilg es ank un wis hoin on he thes thon t
+CIRK: Mele the the see ras's hins the sascin. I't t
+EIRK: I winos to matiod in in che thin oe the tou d
+CIRK: Yh to so tou sise oo the the and ol thit s no
+FIRA: Sare wo be seet to tarasl. if tha the coul be
+DOCU: Sre She the wous apoun or co cho in got yhe a
+ZIRK: Morle to the ale and the the nserlete to it a
+KIRR: I sor wint the pist the if me on che sata th 
+DORKK: Cele anthe doure the al bint on ture there w
+OIRKK: I Coul lint ho lothel dath in bove the te on
+OARK: And the or siin vele tom tho be skerans anter
+ZIKK: I wery the wint in attere the the se wous at 
+NCCOY: Ceacs as an tho the thas in he the dore wor 
+
+Epoch 2 Started
+
+104m 52s (3000 10%)
+Samples:
+MIAK: I tou youn in the the ingont on raser touve.
+HCIR: Del the boure of oul than to the to and to yo
+QEOKI: Mist an to reder as the decon to hee han ano
+SIR: I cont taan antor San we wot tou the coot is o
+RIRK: I meake in tirk on thatd Cicous berle.
+GOIR: I lealh sore sise fo tou sher and one in in m
+DBOK: I Cos anlon the bele the soun Moun anad the s
+JYCTY: I the wial be is os the wot on anar wo has a
+AIRK: Nove ann on wonthe dhe and of are fise the in
+QIRK: Wither ou ne, the cesans.
+TMPCEN: I dut hous won tou the to suand so than to 
+SIRK: I ou don an ater mathe the on ore wifing ou t
+SCOKK: The ponle don at an an, in bore unge on the 
+WOOR: Hep anger thad wisos the sot an fee the pcere
+SCOCT: Tis con, in the in bore iw tho vame pont on 
+
+113m 50s (6000 20%)
+Samples:
+QIRK: Met in the poons the the soe, in and couthen 
+IRRY: Srathane the the rele be wou in woil ass the 
+SIRK: I to the the so ke the the moche in to poucd 
+SOOK: Tho as is banet a seake gous ant the lt me so
+PLOME: Coult ap in at the the dere coud sou bale So
+XIRK: I yo ape the me be ham and of the sour he her
+AIRK: I his low he the sour sowe ang of he berle th
+NIRK: The tou courle ou un not woull and and of mou
+ZPCOA: An doud the ald hach to merine the he meser 
+OCCK: I'd core the bo mele the pule an the ere he s
+LIRK: At the the he win ore as to is fous the hase 
+UIRK: I tou wou I the soul the lle this sise ar thh
+KIRK: I yor, me he an so rele an ctels ou loter wo 
+DIRK: We canle biricg oo woul boring sou wouter, wo
+IPRK: Out or orane bot hhe asgerol.
+
+122m 35s (9000 30%)
+Samples:
+WIRK: Than the to he har shet ate of he to the hine
+QIRK: Of on the lane are wo the lere upt and on the
+KIRK: Hou tho set of the bere to you the ware he rp
+KORA: I thin the beere he fral me, the the deand co
+FCOC: Anl sfong coalle oo deed the gett loce tee wi
+WIRK: Ale in coud is serint thurs. And, ame thind t
+PIRK: At bat so fores the toum the leme me the fhe 
+SCOCK: I cenoth is the gave is hat and ofe the deed
+SIRK: Bot on and on the lath to the the hre aver hi
+MIRK: Thoun the seare the the conust thing fhom be 
+JIRK: I fil, hine, you, hemles for calle taing. Iny
+PIRK: Anver palt, Sipther the a fore thase your on 
+UAAL: Croong. Anter whis rele ale the surliott anle
+RIRK: I sould he leering the hare etter of wim the 
+VIRK: Dor ware horith le the ar. To the eingath a t
+
+131m 37s (12000 41%)
+Samples:
+FPOCK: I wo in could ho und the meal be andem the c
+HIRK: I dister the realle corering orer to merouns.
+VROL: Silcarine to the sreoth the meme and the and 
+EIRK: I das theul sore mewer to the mrome att and i
+UROY: You hive fore therer anom the the porer pime 
+LIRK: You the kore Courd the sore sived and reet we
+OPAR: At anger ant coulr in the dar gorving the sea
+AIRK: A coums the cores ryochling corky Sond the wa
+HPOCE: I sould you made to he hirl comes the southi
+DIRK: You thale than than the whim mecont whar heen
+ZPOCK: We mare dork bereare ant. What thar dare thi
+KIRK: And watt onather the coreron who your the dam
+NIRK: Sund ou wour they dent cere the cererud the m
+JIRK: I you sore Morching a kiyt reer corer in the 
+HIRK: You cink whou soul he ban the reppise cat afu
+
+140m 27s (15000 51%)
+Samples:
+WORK: Stond thape and is be. I and that on porpotil
+NPOCL: I the wis thit on the hark you doocht hes to
+NIRK: The sapke got the and to mame cure and with t
+AIRK: At the poor ato foum of ow me and sor wo not 
+ZIRK: Wanter we pontaind to ar.
+BCONA: I ate ave is ont a mador the aroter and is o
+WPOCE: We wan't erounter dimong to went the dale wo
+CIRK: Wou so gine. Pore you man the ponk to fuct is
+GIRK: We wan, at the meatess to serals of wis to co
+VIRK: We drige to wing. We tare funtt the drein fou
+LIRK: Ctate all ond to walk the fucgus on the now s
+BLOY [oC]: Pan conk inte thit ven.
+COCCEN: I what the west the koud ig and thin anter 
+QIRK: The gungend is to hid of and the co thal wis 
+YRTTOY Gan't the and of a fon sot wip mlone for com
+
+149m 24s (18000 61%)
+Samples:
+ALUEA: I corelled whall an the deer wher bome ges m
+QIRK: Pis she rere him a llotes of the corke if on 
+RAAN: I'v a donce to cours on the sourtaans and the
+QCEY [OC]: He have wher we he wore to for the pome 
+EIRK: What who't un harp in than wher shas he has e
+SIRK: I ere wall ict e the gour. The are in a dan c
+LPOCK: You and to ne thes the the knoter at the Sip
+MIRK: Bum at the dand anth so for tho epins the tha
+SIRK: You his we cosk that the fof hit heme gure th
+VIRK: Any the sound be fout. You han of Sont aver u
+APIRK: I soud we fourle. And the mage so fren the u
+BIRK: You on with in and coredon. The soume. I to w
+SPOCK: And sat in wire on the not the mel hear tho 
+IRRA: An't the lose the his to cor the bing to me a
+CIRK: Mither so cas wrad shat a coctale to he ere m
+
+158m 22s (21000 72%)
+Samples:
+FHIRA: I and wat one coptains acpaine to to pelarin
+URERA: Cepan a dloot, conting on.
+KIRK: It the banter seenter deating to seen ore as 
+RIRK: Ontime you the wath that wet the soan inter t
+CIRK: And the mentene the you and you rive.
+RPOY [OCC: I'd geer the the contion, the mange dapt
+RREU: You mither with out other and the sonound and
+QCOCT: Thy pates. Wat wat our the now of sathen, sa
+CIRK: At the peape to chate af there wath then the 
+TIRK: Stither ald is seave is the and the klone wou
+MPOCK: What you srate of cond is a dant. It it he m
+OPCOY: And so hith to at of cond one corke to beave
+NLLOY [OC]: I man. We to wate sive the pate he the 
+XIRK: Wenperant is that the canse the canter goul t
+POCOK: Het to sounge, I of leate. Spockes an the an
+
+168m 18s (24000 82%)
+Samples:
+XIRK: And wand the reand and freating will that not
+TIRK: Lesting cinde thit the und band douch the sor
+EARAN: You rean, so the lon do wich the his of to s
+FARU: No hale gooth a the fourd in a dafe the pusti
+OPERE: I'd go the cand the shid the that the we fou
+OPORK: Yfars and for and the poctoll and aing of th
+NIRK: All in here the cored his and to hil conch co
+SCOCK: I for the star it of his the ling and you li
+YIR A comk. I duald the ham the live bean the papta
+BRCY: And othring of the warl of hall of that be th
+MHeR [ou mond the been Siptaing the ling in to a fe
+VIRK: I hace dore a soon. Marting the fom.
+YIRK: Snother mot aster the und har the pall you an
+RKORN: Shat you the poste of for and poruting of ho
+UIRK: You engers and. It is the hed a mame the mong
+
+177m 11s (27000 92%)
+Samples:
+MPOCK: You to cond then the coursing a let in wours
+PIRK: Bere her, and the lost in a ther the sead Sas
+PIRK: You for in the kem.
+WHIRD: You thiggud.
+JIRAA: Yem, I conter Cpock Coupten with sored eft s
+BPOCK: Thet so reow of ensert, the satt you the par
+YHAR: I whale aver corvenster the wall the bean to 
+JIRK: There srestend to ke an doul is cared.
+PIRK: Stent in on biret to deans for of that a the 
+NIRK: You mand and it kear it in there sored.
+DIRK: I monerding, no dourd out praping of the doon
+NIRK: You rook is now you the moftared and the you 
+CIRK: Hed out don't of hem.
+MPOCK: Cortand so sounn and the plad here of the po
+HIRK: The the cartion. Mister tho mandenster to the
+
+184m 26s Epoch Train Loss: 171.0166
+193m 55s Epoch Test Loss: 144.3502, Accuracy: 27.2272 
+Epoch Samples:
+BCIRK: Sheride do the lacull you the all and the pa
+LIRK: The lowel a rester gond of the dot on the sre
+QCOLG: Your where wournever it be in thered you wha
+NIRK: I do a donter here fut the hon one the pull d
+YSPOCE: I hap is think to be ating here soll here p
+BIRK: It the dreer wat on the donger. The lover to 
+ERKAR: The who souls anther mere not the coned of t
+XIRK: The he wrom in the hall and seraus and the ha
+XCIR: Then the mear there ston on it reatane the wa
+MIRK: You, sere, sor whe dingont sere fored one ond
+PIRK: I llous, Cerparn math porsiel are a lange.
+DERAA: It the courd the one conter.
+RIRL: Enterprece. Bat of the hem.
+FIRK: Ban sore of the hapt aver and you hare he sar
+XIRKA: I'r they to the not the buth the meanst the 
+
+Epoch 3 Started
+
+202m 47s (3000 10%)
+Samples:
+IRKAN: You'al the dimed on is to the doones the in 
+BCOT: Hat and the chase don't ale and it and and be
+PIRK: I and you. Fow conce und be the poon the dive
+HIRK: I snation ary that shop here on the becoud ag
+RAREU: And and wirk your be a dare sere.
+UANESN: I will ale shas the pringer?
+TIRK: You dive in dear the contarned the laded the 
+TIRKAR: You conce srom.
+ODARA: The reacel, Spock a doon pringing the ans mo
+LIRK: I's goen ko whe well be andartireded an our n
+DIRK: We you alont of beave the pan sure bean freev
+ANAA: I'll and axlit on the care been as porely sta
+FIRK: I wave we soun hap a caning on the an the tor
+PARAN: A lack a dow a sowaen. I'll gut one the has 
+IRRA: We the and on this. Nom all the then it hile 
+
+211m 48s (6000 20%)
+Samples:
+KIRK: I'll will the as it the toing to the seanst f
+OULIR: On in the to the seere the shere rooud a cop
+JIREN: Thaed you he to be his the some the larthing
+STOK: The sourd oou I don't be und what the prain y
+MCCOY: The Siptaing the with are a hemanter the for
+ERNE: The looth the hae the seen shat you meather h
+EREN: You and would to longer the real the and the 
+BIRK: Whe paster Spock and sour the reake to the st
+WIRK: What stele now would he the domes the goom mo
+ERIN: I mlanes alo it the mator to a dould out the 
+CIRK: I monel be the the beament to the conter and 
+KIRK: I and are wo look it the not we meise at and 
+SCOTK: I wank the wours a pore, the dire gous the l
+LIRK: Comcals to the to the padeen and sourd the sa
+QIRK: Romesser. A poad to ghe your mome courd on wa
+
+220m 39s (9000 30%)
+Samples:
+RCUTON [OC]: The preother of the premorss a the sup
+WIRKA: You reaked the go the goike to will it the p
+WIRK: Noum to the not for the to perpoded want the 
+KIRK: You't a kemune and here comestent on the bein
+KIRK: Deal not then't unboust in wall a wall the pr
+JCOME: The manst froce in the wall to of purpomital
+OPOLA: I danting the hean of the tould on the fere 
+IRAH: Pedees the puar you hapt are the mest be his 
+WHIRA: Apere you inle from and the forth the preer 
+WIRK: We're a freation the fore the hall you rean y
+KIRK: Rood the made you gailed hare seach the stay 
+SPOCK: Endersarily.
+TIRK: I hand the mactor and all has in Erporitians 
+UHIRA: At the Kall stars the prapines in the sead n
+JCOLLEA: Captain wours of the fobe of a doand the f
+
+229m 46s (12000 41%)
+Samples:
+NIRA: Nor the sting to poring to be we wary in four
+GIRK: One in the wistor and the tound the mact doun
+HIRE: Operar pertand the captanes the wall a surare
+KIRK: I doung the ficting to maser mean and the rep
+NIRA: Captain.
+KIRK: The shie being the partester anster liguratio
+UULA: Your dire of the must like a bave the priel t
+TIRK: Fid sare the dave the shir and puct his and w
+HIRKA: The dere ay the milst of the mome on count, 
+DIRK: They wame, ne do and are the I would that has
+FASNOT: There sever the ofun and staring the painet
+DHOC: Lere say the mare the mearn mone the ame the 
+CIRK: Captain.
+DRIRN: You and the paster the wisto it dike the mes
+NIR: At here vive the communect. The chat a mutira 
+
+238m 55s (15000 51%)
+Samples:
+CIRK: What inter the has minter it and the same and
+ZIRK: You don't wrough to becomd of the tours on th
+XIREN: I want the panter the last the looght his to
+Her is the and you hif sficht with the ship the pro
+DIRK: We have you doe it is the shor poll in the de
+RINE: You that to canting to seal the git all be an
+RIRK: Stain you don the conter and the pranet to st
+SPOCK: The not in the can.
+JANDA: I mead the carnion ever it a look a what sta
+UNIRA: Vitht of the rest to to the can on your digh
+EPURA: Kell here not with here promer, that in the 
+IRRA: And I the conging cave the the gring. The pre
+TIRK: That is stould to planet and the contrey to a
+ZIRK: We could of the pun dinging at to the prear f
+QIRA: I wan this and or the dird the pan your in th
+
+248m 4s (18000 61%)
+Samples:
+WHURA: What some.
+ERHIRA: We don't gut in dest to ending restrors of 
+QRACY [OC]: Master Spock, Mister Spock in your low 
+SPOCK: I conter the regure to the fir contal be cha
+BIRK: Penter we controu we know of confing here a m
+TIRK: You won is the oul wo sur lockn of contreate 
+YROL: A hander the some we man in an you real on th
+TIRK: You have go conned, but the courd the one wit
+ANEN: I men't have to fere so undand them.
+HIRK: We enterprise of the stourd hap the cont on a
+DIRU: There wall of the hest rook who would of the 
+LARA: No a dir is and ender to gains prenical that 
+GIKA: What is a did the shours.
+MCCOY: One wan a hemss in dering the gut he will to
+NIRE: That is a place a grong pors on a with the we
+
+257m 22s (21000 72%)
+Samples:
+ARA: You've sours and somm to be mone be and of the
+COTO: Yes, sir. It is sut will it the manter a mead
+QRIRA: The at the can, and you. I and be not in we 
+TIRK: You don't you seept to use wathing the readen
+RIRA: Not the prefors and the of the sarn the seare
+ULIRA: Not in that and the stoure shouk to be tall 
+FERAN: You sive it to dired and sim.
+URRAY: You have seed on the contion be and lied the
+SPOCK: You do done a stange. I know to stare the sh
+ORIRA: In't me not ment. (the tame to the ship is a
+INA: Is where axowar. Scotter Spock, and the with t
+GIRA: Yut walt the Srow, and theneed of the firth a
+JERAN: Yes, we're have your have as the beter of th
+IRRA: And the shape to the sealing to gatte the mea
+KIRK: Yes, we do ad the plomed shape seen and sim.
+
+266m 47s (24000 82%)
+Samples:
+OHURA: We have the light fir the fin, the mund the 
+YRA: The gony the hart hare be af mear of the surta
+SCOTT: Nor the sage trent me and the not the for go
+ARHA: Kell end of us you an the court meave on hall
+PORRU: Weard we do to do do inter the comm.
+HIRK: I want him of the restoll have you and be the
+XLIRT: Bear hours a mad, waid that cond you. I've s
+UIRKI The goen to the stall the dir mond the meall 
+ANRA: You shap station. We chave you beill it the c
+LARER: Nothing the Pir funt and ane to morit for yo
+MCCOY: The sufser to of be sir.
+LARDA: I mame his the ling to the sump to the stars
+XIRU: The don the light a the wis a drosed the your
+MCCOY: No, I do not the but they dind the ofe the n
+GIRA: I man will, but his the stiell to chout it th
+
+276m 1s (27000 92%)
+Samples:
+LIRA: I see a forbed the erporter it are it the rec
+FIRAN: I don't be mearing macht the reculled the En
+LAMA: Scotty, sir.
+NIRK: I's nond you walt the caillt the lost workn w
+COHAN: You done the muftrering of the poinger. They
+GANN: You want you are the prefince to serceise a s
+KIRK: I want the allade the doons hight the prowent
+VORE: You don't be parge that what ore are to do an
+QANNIS: You have in to for treather souls ince of t
+AMELER: We'plation of are to one this jord. Stack s
+THRAN: I men the regain a bastering that preation t
+YRAMN: I surpaces, whe is the that you. Were is tha
+XANU: He was the lantern to and light. You wear is 
+OHIRA: Kere of you of a shield one me. You know mea
+KIRK: And you lanner. I who can come, withone shene
+
+283m 56s Epoch Train Loss: 150.6885
+293m 49s Epoch Test Loss: 129.7064, Accuracy: 32.9521 
+Epoch Samples:
+QIRA: I we do not our you a comen.
+SPOCK: I'm correct to une the brings surigher the s
+LIRA: We can an the ship have the looks. Bare see t
+GIRA: Chark to of comes, and the stringed a forth b
+XANEL: But of the erow the chievents the tours of t
+HIRA: Do courd the for of the such your the one fhe
+KIRK: I'm has in you soord agess not the comes to e
+ULURA: Of yake our that me an our it shorged the we
+GIRA: There well of ener you a anctor!
+IRA: Move comen, the cally orees, Manter.
+VIRA: We here show is the plean. We have to ever ne
+ACLAN: I lan reads. Captain, and you a lead man a d
+JUREN: It can the may comether.
+WIRK: There who dear the evied the spoment of meali
+IRA: Do and I would he dono thes of the ware Mister
+
+Epoch 4 Started
+
+302m 55s (3000 10%)
+Samples:
+MCCOY: I longed of lork your of our a cunstain in i
+AHTE: The undical mist realing to the shiped to con
+ZARU: What hould them.
+ANAN: Hake seak.
+DILK: All and the wnow the planet the mead the moch
+WIRA: You know to me in the pairent agien to it is 
+RCAYN: It it is a did stand light it.
+GHAAN: With hear ender the checspert and sore on th
+ZIRA: I can a doon that live the one to stand you d
+EANU: Sill that is do be an the at are.
+XIRA: It would the lood about of the diret any and 
+OPOR: The fort of light he will have beise the low 
+GINE: I kive to be for the Captain. I all the bear 
+VIRK: You wark and alose of the stanging and have r
+BELA: You know and bake the sir.
+
+312m 14s (6000 20%)
+Samples:
+DIRA: All me for goar ow the proced would you have 
+FUREN: Conter you have the promenty the intort do t
+MCCAY: Jow now shat of the perpection in the sure b
+QRAN: You Enterprise.
+XERU: A for it the planet readoration in the stars 
+LEAN: And ship. We lat would ole it us the proimuty
+UHIRA: I seopation to interted, but in you see to a
+XIRA: I'm not the stirk the mation on the was and l
+RARA: Scaint, Mister Scott, Captain, Mister Spock.
+JIRA: The stant the contand for the but the not the
+UHIRA [OC]: We'p see that the lay a soind to should
+LIREN: We have going bomm the commans inticure bo w
+MCCCOY: I do it point on the ship.
+ILAAL: They, fither are burd. Mot here have was of 
+SPOCK: No the waid stoul to the surplese. And by in
+
+321m 21s (9000 30%)
+Samples:
+JIRA: All he dear fees a beel to be would to here t
+VIRA: They is the fere the planet, we he dear of th
+QMCCOY: On the the from the proind the ither.
+MCCOY: You do we tho mole do do be and the to you h
+LEAL: I'll he me the trantion will a quet to the de
+RCOLAN: She thry mear the reads to the fach meath, 
+HHAR: I have he realed and the could the it heapong
+BILAY: And Captain. I want to me out timent to the 
+UHURA: I want tell of the sight find make to the mr
+OHHA [OC]: Captain. It the they and perse us the ha
+QHIRA: And what a proment would they to be that he 
+MCCOY: Nown promed to destly here of to the rearss 
+KIRK: I'll the Vaytring the sure of the ship. It we
+APALE: Come sire to the sact fire it that at you ha
+RINA: I wall the lanter them and I real you he a th
+
+330m 43s (12000 41%)
+Samples:
+RARLE: There sevented the sen the stares on the may
+WERANE: He won here preciestenter the replep the wa
+UMANA: They ware now that have it read be and minet
+ZANAN: How the vangenter in the menter the court a 
+QHUR: We don't me aguter the sace you can that is t
+NIRA: I can we drieghing me a canot it ship may in 
+BIRL: There viecter to merical the mineter all beco
+OLUR: Spock, I away be an the sele the Enterprise i
+YRA: Stark of mary afe it a beal and feer contrelt 
+RCAEL: The stand contrenter the Port a cormans.
+NIRA: One the resert with the trouge of the sagn to
+SPOCK: They will the betting of the ference sare be
+GIRO: There way beared a sur of here one. They in t
+RIK: All resever you wason are the wall here the si
+GIRA: He wants me beter a mister it the bright spop
+
+339m 47s (15000 51%)
+Samples:
+GUMAN: This is giret a controned to the with the co
+LIRA: We hit is men you pistle with with tis the su
+OPURA: Captain. It the prowens in the fince the con
+MCCOY: You and be and dires to got the feel to a pa
+KIRK: We doow to state to main the can the pranet t
+JARLA: We the moman und feer the the look some to b
+TIRK: You lire to the lookung stound into to know y
+WIRK: He don't do are trange the Enterprise probeat
+PURU: Now a have and to time him.
+RCCOY: That the read to beived it them.
+OPOR: You are was and work to feen my that of a lig
+LIRA: What not the this and with the plose the rega
+GIRAN: And prepect on the spoce on the resuple him.
+DIR: Captain.
+LILA: The raght, Captain. I want to make the bector
+
+348m 58s (18000 61%)
+Samples:
+CHEKOV: Has record the weare the not and of thing o
+ENA: You have and of the mass on the ship the sagni
+FUREV: Go, we can of the inturire in record word po
+VhI Spock Captain a phaser and I is us a proice on 
+ERAN: You don't whing you go you case the command t
+PIRK: And you surg to me the come his gone us and s
+HARA: You are the mading from the mown his in the S
+NANA: The doy the floog, be the pronet a harkly and
+FAND: You what do get come in the sair a communes a
+OPORA: He worling a potient what we whing what exsi
+SPOCK: They want you come out of the surs and spoce
+QCONT: Enterprise have an want a some the probose. 
+ANEM: I's for on a find the dokn. I will do be of t
+JINN: And we was love in and the report here and wh
+VAR: Scotty record a peder for the never to see, is
+
+358m 2s (21000 72%)
+Samples:
+FROCER: A man ban the feel sure you. We'll adreen e
+VOLUS: Nothing the starten persend. The tase when i
+IKU: The dissed be for us the enters and a nither t
+IRULER: The Bust the simpleent to all decest any le
+UROKOE: It's planet the cipmanet a man the mone the
+LAAN: I sars the flomition. Of mead the satter seco
+XKIRK: Your the can a remand the astain senwing to 
+FIRA: That east and forthing real the has a feem th
+HIRA: They wants to stars one. It is it the can the
+WIRA: The dis speace of contorthing the stant for t
+VIRK: You dranted and your mister scen the breaging
+NALA: We don't who mante at a commanded and with yo
+HIRA: It's it and bether dead the can me senower. Y
+WERAN: Starn's it with the signand have speenged ja
+JIRA: The spares the a sender the loves.
+
+368m 1s (24000 82%)
+Samples:
+PIRA: No, sir. I geall have not the defor the in sc
+ThANE: With will that will you the forn thing of th
+NIRA: I have a lot to for for him and the seould ar
+OTORA: I hake the fire to do completed the sure in 
+BIRA: A sever a commone on the agature doon?
+KIRK: The lass a parss in into personed to do go th
+ERAMIR: Captain.
+XANE: The matter that me.
+HIRAY: Are you? Oh and staill so me. We could that 
+UHURA: Starce course to him, it the going on the go
+GEAN: He do the fire a man a ship. We do done of th
+VIRK: It's rook lifture is then and dir it.
+LHEN: I shand down it of the communes in a lonakica
+VIRA: Douthing with all from for you.
+UHURAY: Captain. We hould it it more pearon for him
+
+380m 34s (27000 92%)
+Samples:
+QARLE: Freportical the trones in the one.
+BIRAS: Yes, be not in the planet we can you can the
+QHARA: It's for the from the door, Captain, I can t
+DEMANEE: Neverve to the entioning to the get you li
+JERAY: Spock. I minds on the sholl prodution the lo
+HANLA: It then the prenered command, but the planet
+YAR: Spock in the gets on the prepuces.
+HIRA: My are the porsellet. I don't know me not one
+SPOCK: Mister Spock, and we don't a compleences, an
+RALA: You fre a bely rearing the planet of the of t
+COPULA: And you stop the tronging the light, and ha
+FPOLE: Then is in control him. I'd not the control 
+MCCOY: You do to the for a lead.
+FELE: There but we courding bors it the sade.
+OLURA: I wen the sare the good. It way is in your d
+
+391m 28s Epoch Train Loss: 139.7914
+404m 12s Epoch Test Loss: 121.0433, Accuracy: 36.6161 
+Epoch Samples:
+VIRA: Commander.
+BIRK: I'll han hear soing the order of coll, we're 
+XELAN: We his something, sir.
+DIK: I'll be and liver of the look your surs here.
+FIRE: Bary of the rood.
+RELATI: What was be the ship the call transport.
+ENA: No have the computer, Mister Spock and your se
+THIRA: They are you the groming stalle command her 
+THAR: Oh, I don't be any all doom. But the ship. I 
+MCCOY: Fire us it. It the worrise of the diss a set
+QHIK: There when hare and beam of the the ships on 
+CHANE: I suppry his of it. I'm not your somech.
+VIRA: I read a mast entern.
+NLANA: I wark a contice.
+TIRK: She wear geard the sure and of the ship.
+
+Epoch 5 Started
+
+417m 26s (3000 10%)
+Samples:
+YANAN: It way me and him.
+LARIS: And it I want the light, Captain, I can we'r
+ILEN: We was a return to rept of your was so no bee
+XIKA: The leal happened. I was the planet of the me
+ALIAN: For comes of the other for the station of th
+XANL: The storples.
+OPERA: I mand that you.
+RANL: Spock?
+GIKIK: We have would a mlany une the transporter, M
+NANGI: You're got for with now.
+ILAN: The has dister to can sure and going hust and
+HIRAN: Mister Spock. If they will lass on him on.
+OANDA: That peess a ware a stark firth and is come 
+WIRA: No, sir. I've out station the betore the to w
+GIRA: Or course go take to be a prodent it.C:\Users\user\AppData\Local\Programs\Python\Python36\lib\site-packages\sklearn\externals\joblib\externals\cloudpickle\cloudpickle.py:47: DeprecationWarning: the imp module is deprecated in favour of importlib; see the module's documentation for alternative uses
+  import imp
+
+
+430m 31s (6000 20%)
+Samples:
+PIAL: A sure in so restrestand to sturgh, and of th
+JUHAN: In the ship. You know the commanion and go s
+HELE: No, I man station in the feeloon beamanical t
+ANGO: You're sometily on the mearos are the prietul
+THAR: The hust was to go be mation at a back parts 
+KIRK: What it what the sure to are the make you wer
+KIRK: But the ships and be the transporter the rest
+DUH: I was that the kind the math the ship as we pl
+OPOLA: We do you still you was to a been to streid 
+BOLA: I don't the neers. The teded as of the culusi
+CHAPOL: Stander. I'r playet point of the planet.
+FERA: I was the pooure a mind. The sunest.
+ZANES: But you're not the sare the loget, but was t
+XADIS: The man real to about to the mometion. We wo
+TURU: What ivery we are the ship.
+
+439m 40s (9000 30%)
+Samples:
+UHURA [OC]: I suuusn in the bet to the floone the t
+RIKA: No, I've love the does of the sace is a bacti
+VINAAN: The care and whing you suppose in the using
+YALA: The centrols to the room the ship the unders 
+NAMUS: Now hear, the light and us mean. The for you
+HIRA: It the git it is starthering you and on the l
+LIKA: Well for a must he alleen of the Forty at all
+APURA: Suluter.
+KIRK: He was a love pooused and will death that wou
+VIRA: I know here and you a same the Suluty the wel
+THIRAN: Well hile the may ireate the realing all th
+DARE: Doar, Captain. The momens of the sparer to th
+OLUSANE: There well read us a man A controlite that
+XANA: The the'r coming to the transporter is the al
+OHURA: Scotty. The to be suppees in would the was h
+
+449m 15s (12000 41%)
+Samples:
+YOUMA: No me sevent her was sure to me our for of t
+ELUAN: (hand the suther the life and the repuse the
+WIRA: This is a semel doo would to lige you have wh
+FEPER: I have a bay the control computer of the ent
+DIRK: You see the will be for the creuture be sure 
+GIRNA: You have we devery the Enterprise to ang you
+ZAND: You have to expecting and resporting in the s
+SPOCK: And expect of the little the fount of the be
+VHILON: The persiinal emport of the way and you to 
+LINA: Star one the medical to be here, sir.
+IKO: Scott the would we state remore me.
+MCCOY: You mean the Enterprise the sire on the sord
+BIRK: What you see control the Captain? The gromy s
+MCCOY: You have me been on the sword and you are yo
+HERA: Energine the staplet here as a something with
+
+458m 39s (15000 51%)
+Samples:
+FALNA: That is gone to time to suld lest to the man
+NANLA: A signal to can spenect to hundred have this
+LAND [OC]: I suve with the matter and to more andin
+KIRK: Or is be of the soment to suppect bet be the 
+LUCK: Transporter ship mones. Oll have got to the t
+LANDES: And the suld a selut the computed to be now
+DECHERE: She were into a cleath. Kirk to happened t
+ENARTER: Not interthing for the planet to hone.
+SPOCK: Staily a control the screen men here.
+RARDE: Stark the power. Wen withes strander and lig
+VOLEM: Has the of the suppe this the for her the tr
+TIRK: There's into a with the will find the transpo
+NEMANA: Not the rage.
+ZELES: The doons, parcess on the wantrell with the 
+LARAD: How the dood the of coursesed enters to on t
+
+468m 12s (18000 61%)
+Samples:
+ENAY: You are presentiate so neers and doctor to ge
+RANE: Aye, I am a mear to be communication of the o
+CHEK: That's the one preser the control of the repo
+QERA: I warp to me will so the for hor the this on 
+LANDES: How men down here a wearting on the Corred.
+YRAG: They are you the reguting on the mears our pe
+JALA: I know us like he can a control for a for out
+NOMEN: What have no in the planet on on the from Sc
+IR [on what know hours a be us was to courded to a 
+OLURA: You would be the leave end will the throks h
+GIRA: It's a stard of leaves on do on your place th
+DECAN: Aye, sir.
+POLAN: The ship in a slied have the sugn't a sut of
+THARD: That is the reporting to the Mar of the man 
+ARANA: You will be with your in. What do you now he
+
+480m 58s (21000 72%)
+Samples:
+REANA: And not do take be a creather with the is an
+ELAY: And will be leaves for the enter order and se
+UHURA: Yes. I was new to down the door interently f
+PONA: We are it of the surfer this me not and find 
+YREKOV: It is it. We have all out one the seluative
+IRE: Yes, sir. It is we know to me neam of the fert
+SPOCK: The was in the perment to the seculting to t
+GAN: Yes. We're not the planet secumitions what we 
+WIRA: Lieutenant intentition be some worlent in the
+SPOCK: The ship will like to me one the ship.
+HIRE: They readed see devitity it was done take for
+UHURA: Fan the pust stop the commanged anceant the 
+ZIRE: We have enter to deach, and lives verding the
+JELAS: We've got to the planet of the ention again.
+IHEN: You want temple and of the persife the sett t
+
+491m 39s (24000 82%)
+Samples:
+GERAN: Oh the starfleen the energy the compute have
+OHUR: I can't a trantes well on is long some the do
+IROY [OC]: Yes, your restruction. It will a mentall
+ERALT: We'll go the sir life and the matting. It we
+ZIRA: We had you to the pution at the learts of the
+DECAN: No, Captain.
+DIK: And the suldune op the man what way that of th
+HEKI Yo my and courtive. I am not a secure your pla
+ERENE: Mister Spock?
+QERA: You must you are the state us are of the life
+KIRK: And I am socting to started my and the tall o
+PONLA: The would be before and and the full mines b
+NERA: I have mand the light hurt and that have you 
+THERA: You seem to have to be a same in the pioled 
+LANDER: I maint make the gunation were with hours. 
+
+504m 9s (27000 92%)
+Samples:
+YRANE: You don't tell the this is the reprormation 
+HIRAN [OC]: There were all oup is the court with co
+ETHER [OC]: I told the have changed a for Spock and
+ATHER: There all of it any flood in and to gated th
+UHIRA: They was a mean. I see on the have conserant
+ENLER: You just as on the comenter of a courded man
+YEL: Yes, sir. You can and the planet of our partiv
+VIRA: Not read the control is that of at worl, the 
+NODLA: It means been ship the cormant of the simpli
+XIKA: You save to the beloned. You want worded to c
+UHURA: That's from you simple I gent the Captain, i
+ZARLAAN: You can a trate and it one the through and
+BALIST: The down't entere is the normeds.
+FIKA: It may that may are a proded. We don't you co
+ANDE: I want the Mister Spock.
+
+515m 29s Epoch Train Loss: 132.9275
+529m 43s Epoch Test Loss: 114.6965, Accuracy: 39.1933 
+Epoch Samples:
+CHAPEL: There will has how you one here.
+CHEKOV: Control you.
+HENA: There are the starning. The sare her and the 
+PARAN: The ship is dead of the captain, hand me wit
+LAND: You are all be for the ships and any dead. Sp
+NANA: We can you go in the Enterprise.
+REAN: Row you deverening to the come all of the shi
+LARIS: The dirives it of the planet the course. Hel
+WIRA: You sare even the folless.
+ELAN: I was you worled to rose change to the right.
+IKE: I can all give of the ship rest entioned for t
+IRAY: I have the computer are lest construity. I do
+WENA: One the stange the planet of the more on the 
+SPOCK: I made be look her book the computer. The sh
+HIRAN: I would have to the man me in your phaser th
+

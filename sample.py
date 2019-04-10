@@ -9,7 +9,7 @@ if len(sys.argv)  != 2:
     print('Usage: python sample.py <starting character/characters>\ne.g. python sample.py A\ne.g. python sample.py KS')
     sys.exit(0)
 
-MODEL = 'model10.pt'
+MODEL = 'model5.pt'
 lstm_layers = 2
 use_cuda = torch.cuda.is_available()
 device = torch.device('cuda' if use_cuda else 'cpu')
@@ -94,5 +94,6 @@ class CustomLSTM(nn.Module):
 all_letters = get_all_letters()
 n_letters = num_all_letters(all_letters)
 rnn = CustomLSTM(n_letters, 200, n_letters, lstm_layers, device, 0.4)
+rnn.to(device)
 rnn.load_state_dict(torch.load(MODEL, map_location=device))
 samples(n_letters, all_letters, device, rnn, sys.argv[1])

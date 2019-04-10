@@ -30,8 +30,8 @@ import numpy as np
 TUTORIAL_DATA = 'data/names/*.txt'
 reload_model = 'model10.pt' # If continuing on training, be sure to uncomment model loading below at line 297
 criterion = nn.NLLLoss()
-learning_rate = 0.0001 # Started 0.0001
-num_epoch = 10
+learning_rate = 0.0005 # Started 0.0001
+num_epoch = 5
 print_every = 3000 # 5000
 lstm_layers = 2
 use_cuda = torch.cuda.is_available()
@@ -51,7 +51,7 @@ def get_data():
     all_categories = ['st']
     category_lines['st']=[]
     filterwords=['NEXTEPISODE']
-    with open('./star_trek_transcripts_all_episodes.csv', newline='', encoding='UTF-8') as csvfile:
+    with open('./data/star_trek_transcripts_all_episodes.csv', newline='', encoding='UTF-8') as csvfile:
         reader = csv.reader(csvfile, delimiter=',', quotechar='"')
         for row in reader:
             for el in row:
@@ -137,11 +137,12 @@ def timeSince(since):
 
 def train(train_data, print_every, rnn, optimizer, device, n_letters, all_letters):
     rnn.train()
-    optimizer.zero_grad()
+    
     iter = 0
     total_loss = 0
 
     for line in train_data:
+        optimizer.zero_grad()
         loss = 0
         iter += 1
         input_line_tensor, target_line_tensor = generateTensor(line, n_letters, all_letters)
@@ -297,7 +298,7 @@ rnn = CustomLSTM(n_letters, 200, n_letters, lstm_layers, device, 0.5)
 
 rnn.to(device)
 optimizer = optim.SGD(rnn.parameters(), lr=learning_rate, momentum=0.1)
-scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=1, gamma=0.1)
+scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=10, gamma=0.1)
 
 
 # In[ ]:
